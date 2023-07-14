@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "56514648473",
+    "project_id": "login-register-applicati-91db0",
+    "storage_bucket": "login-register-applicati-91db0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56514648473:android:1d9ab97d1b06df2b47db08",
+        "android_client_info": {
+          "package_name": "com.example.login_register_workout"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "56514648473-4cd6to6jfi4pcviissbn6p0fu0jhr7vu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYwl3V63SUjoUX6vXM9I-7lyVf4OpIo1Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "56514648473-4cd6to6jfi4pcviissbn6p0fu0jhr7vu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "56514648473-atnoqco8or3dqbpg9jriae0aitmmi9aj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.loginRegisterWorkout"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
